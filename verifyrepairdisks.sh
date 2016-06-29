@@ -5,7 +5,7 @@
 #  verifyrepairdisks.sh            #
 #  Version 1.0                     #
 #  By Jake Benedict                #
-#  Franklin & Marsahll College     #
+#  Franklin & Marshall College     #
 ####################################    
 
 #  Purpose  ################################################
